@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Project rules
+- All company content (contact, WhatsApp, mission, values, FAQ) lives in src/config/site.ts; products/services/news in src/data/*.ts — edit content there, not in pages.
+- Site-wide chrome (Header, Footer, WhatsAppButton) is mounted once in src/routes/__root.tsx.
