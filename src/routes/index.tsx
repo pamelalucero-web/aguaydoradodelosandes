@@ -52,8 +52,7 @@ function Inicio() {
             eyebrow="Sobre nosotros"
             title="Comprometidos con la calidad del aguaymanto peruano"
             description="Somos una empresa dedicada a la producción y comercialización de aguaymanto, comprometida con ofrecer productos de calidad y construir relaciones comerciales duraderas con nuestros clientes."
-          >
-          </SectionTitle>
+          />
           <Reveal delay={120} className="relative">
             <div className="overflow-hidden rounded-[2rem] shadow-lift">
               <img
