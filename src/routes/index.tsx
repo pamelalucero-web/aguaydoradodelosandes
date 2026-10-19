@@ -49,7 +49,7 @@ function Inicio() {
       <section className="section-y">
         <div className="container-site grid gap-14 lg:grid-cols-2 lg:items-center lg:gap-20">
           <SectionTitle
-            eyebrow="Sobre la empresa"
+            eyebrow="Nuestro producto bandera"
             title="Comprometidos con la calidad del aguaymanto Limatambeño"
             description="Somos una empresa dedicada a la producción y comercialización de aguaymanto, comprometida con ofrecer productos de calidad y construir relaciones comerciales duraderas con nuestros clientes."
           />
