@@ -29,7 +29,7 @@ const slides: Slide[] = [
   {
     imagen: heroPlantacion,
     alt: "Plantación de aguaymanto en los andes peruanos con montañas al fondo",
-    titulo: "Del campo Limantambeño a nuevos mercados",
+    titulo: "Del campo Limatambeño a nuevos mercados",
     texto:
       "Trabajamos para ofrecer productos agrícolas de calidad, con compromiso, responsabilidad y visión de crecimiento.",
     acciones: [{ label: "Conoce nuestra empresa", to: "/quienes-somos", variant: "gold" }],
