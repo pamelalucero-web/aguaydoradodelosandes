@@ -14,13 +14,13 @@ export const site = {
 };
 
 export const contacto = {
-  whatsapp: "51999888777", // [WHATSAPP] solo dígitos, con código de país
-  whatsappVisible: "+51 999 888 777", // [WHATSAPP]
-  telefono: "+51 999 888 777", // [TELÉFONO]
-  correo: "contacto@empresa.com", // [CORREO]
-  direccion: "[DIRECCIÓN]", // p. ej. Av. Principal 123
-  ciudad: "[CIUDAD], Perú",
-  horario: "Lunes a sábado, 8:00 a.m. – 6:00 p.m.", // [HORARIO]
+  whatsapp: "51973467105",
+  whatsappVisible: "+51 973 467 105",
+  telefono: "+51 973 467 105",
+  correo: "contacto@AguayDoradoDeLosAndes.com",
+  direccion: "Comunidad Markawasi S/N",
+  ciudad: "Markawasi-Mollepata-Anta-Cusco, Perú",
+  horario: "Lunes a Sábado, 8:00 a.m. – 6:00 p.m.",
 };
 
 export const whatsappMensaje =
