@@ -59,7 +59,7 @@ function QuienesSomos() {
           </Reveal>
           <div className="order-1 lg:order-2">
             <SectionTitle
-              eyebrow="Nuestra empresa"
+              eyebrow="Sobre nuestra empresa"
               title="Aguaymanto peruano, trabajado con criterio comercial"
             />
             <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
