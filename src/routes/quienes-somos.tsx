@@ -60,23 +60,19 @@ function QuienesSomos() {
           <div className="order-1 lg:order-2">
             <SectionTitle
               eyebrow="Sobre nuestra empresa"
-              title="Aguaymanto peruano, trabajado con criterio comercial"
+              title="Aguaymanto peruano de calidad, del campo al mercado"
             />
             <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
               <p>
-                Somos una empresa peruana dedicada a la producción y comercialización de
-                aguaymanto. Nuestro trabajo consiste en llevar el fruto desde el campo hasta
-                clientes que valoran una presentación cuidada y un estándar consistente.
+                Somos una empresa peruana dedicada al cultivo y comercialización de aguaymanto, comprometida con ofrecer un producto fresco, natural y de excelente calidad. Nuestro objetivo es llevar lo mejor del campo peruano hasta nuestros clientes.
+
+
               </p>
               <p>
-                Atendemos a clientes particulares y también a empresas: restaurantes, hoteles,
-                cafeterías, tiendas, distribuidores y compradores mayoristas que requieren
-                aguaymanto de forma puntual o recurrente.
+                Atendemos a hogares, restaurantes, hoteles, cafeterías, tiendas, distribuidores y empresas mayoristas, ofreciendo aguaymanto con una buena presentación y cuidando cada detalle desde su cosecha hasta su entrega.
               </p>
               <p>
-                Lo que nos diferencia es la cercanía en la atención y el cuidado en cada etapa:
-                selección, manipulación, empaque y coordinación de entrega. Nuestro compromiso con
-                la calidad guía todas nuestras decisiones.
+                Nos caracterizamos por nuestra responsabilidad, atención cercana y compromiso con la calidad. Buscamos generar confianza en nuestros clientes y promover el valor del aguaymanto peruano en el mercado nacional.
               </p>
             </div>
             <BtnLink to="/productos" variant="outline" size="lg" className="mt-8">
