@@ -90,7 +90,7 @@ function QuienesSomos() {
       <section id="nuestra-historia" className="section-y scroll-mt-32 bg-secondary">
         <div className="container-site">
           <SectionTitle
-            eyebrow="Nuestra historia"
+            eyebrow="Sobre nuestra empresa"
             title="Un crecimiento paso a paso"
             description="Estos textos son iniciales y editables; serán reemplazados por la historia real de la empresa."
           />
