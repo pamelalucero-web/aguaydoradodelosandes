@@ -64,12 +64,11 @@ function QuienesSomos() {
             />
             <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
               <p>
-                Somos una empresa peruana dedicada al cultivo y comercialización de aguaymanto, comprometida con ofrecer un producto fresco, natural y de excelente calidad. Nuestro objetivo es llevar lo mejor del campo peruano hasta nuestros clientes.
-
+Somos una empresa peruana dedicada al cultivo y venta de aguaymanto, ofreciendo un producto fresco, natural y de calidad.
 
               </p>
               <p>
-                Atendemos a hogares, restaurantes, hoteles, cafeterías, tiendas, distribuidores y empresas mayoristas, ofreciendo aguaymanto con una buena presentación y cuidando cada detalle desde su cosecha hasta su entrega.
+                Atendemos a hogares, restaurantes, hoteles, tiendas y distribuidores, brindando una buena presentación y entregas cuidadosas.
               </p>
               <p>
                 Nos caracterizamos por nuestra responsabilidad, atención cercana y compromiso con la calidad. Buscamos generar confianza en nuestros clientes y promover el valor del aguaymanto peruano en el mercado nacional.
